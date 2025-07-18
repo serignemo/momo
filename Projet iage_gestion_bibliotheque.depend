@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1751902335 source:c:\users\pc\documents\langage c\projet lc\projet iage_gestion_bibliotheque\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotheque.h"
+
+1751283428 c:\users\pc\documents\langage c\projet lc\projet iage_gestion_bibliotheque\bibliotheque.h
+
